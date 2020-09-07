@@ -1,0 +1,2 @@
+(this["webpackJsonpaiclopedia-admin"]=this["webpackJsonpaiclopedia-admin"]||[]).push([[8],{523:function(i,a,p){i.exports=p.p+"static/media/logo.5d5d9eef.svg"}}]);
+//# sourceMappingURL=8.1b623d57.chunk.js.map
